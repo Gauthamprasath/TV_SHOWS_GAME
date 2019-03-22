@@ -1,0 +1,3 @@
+# TV_SHOWS_GAME
+The game shows 10 jumbled tv shows, user can resolve those shows, to earn points...
+Only famous shows are used in the Game. Each correct answer evals a score point 1. 
